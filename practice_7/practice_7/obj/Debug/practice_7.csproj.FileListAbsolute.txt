@@ -1,0 +1,12 @@
+C:\Users\Dimon\Pictures\Screenshots\practice_7\practice_7\obj\Debug\practice_7.csproj.AssemblyReference.cache
+C:\Users\Dimon\Pictures\Screenshots\practice_7\practice_7\obj\Debug\practice_7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dimon\Pictures\Screenshots\practice_7\practice_7\obj\Debug\practice_7.Form1.resources
+C:\Users\Dimon\Pictures\Screenshots\practice_7\practice_7\obj\Debug\practice_7.Form2.resources
+C:\Users\Dimon\Pictures\Screenshots\practice_7\practice_7\obj\Debug\PR_7.Properties.Resources.resources
+C:\Users\Dimon\Pictures\Screenshots\practice_7\practice_7\obj\Debug\practice_7.csproj.GenerateResource.cache
+C:\Users\Dimon\Pictures\Screenshots\practice_7\practice_7\obj\Debug\practice_7.csproj.CoreCompileInputs.cache
+C:\Users\Dimon\Pictures\Screenshots\practice_7\practice_7\obj\Debug\PR_7.exe
+C:\Users\Dimon\Pictures\Screenshots\practice_7\practice_7\obj\Debug\PR_7.pdb
+C:\Users\Dimon\Pictures\Screenshots\practice_7\practice_7\bin\Debug\PR_7.exe.config
+C:\Users\Dimon\Pictures\Screenshots\practice_7\practice_7\bin\Debug\PR_7.exe
+C:\Users\Dimon\Pictures\Screenshots\practice_7\practice_7\bin\Debug\PR_7.pdb
